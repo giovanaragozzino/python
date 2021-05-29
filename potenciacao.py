@@ -1,0 +1,6 @@
+a = input()
+b = input()
+a = int(a)
+b = int(b)
+m1 = (a ** b) 
+print (m1, end="")
